@@ -1,0 +1,5 @@
+title: IDLI Books
+description: Website for the IDLI Books
+remote_theme: pages-themes/primer
+plugins:
+  - jekyll-remote-theme
